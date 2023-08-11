@@ -4,4 +4,3 @@ prettytable
 tqdm
 tenacity
 wandb
-itertools
